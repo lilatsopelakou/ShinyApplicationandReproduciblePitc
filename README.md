@@ -1,1 +1,1 @@
-# ShinyApplicationandReproduciblePitc
+# ShinyApplicationandReproduciblePitch
